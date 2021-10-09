@@ -23,7 +23,7 @@
 - 💬 Ask me about Nodejs, Angular, Kafka, Serverless AWS, Redis, SQL or any tech-related stuff.
 - 📫 How to reach me: [Instagram - @vickygodparticle](https://www.instagram.com/vickygodparticle/) , [Linkedin - @vivek-dutta](https://www.linkedin.com/in/vivek-dutta-bb213b15a/)
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I got my Kismet.
+- ⚡ Fun fact: Not a believer, but a seeker.
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/VikiisbckDutta?style=social)](https://twitter.com/VikiisbckDutta)
 [![Linkedin: imthepk](https://img.shields.io/badge/-vivekdutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivek-dutta-bb213b15a/)](https://www.linkedin.com/in/vivek-dutta-bb213b15a/)
