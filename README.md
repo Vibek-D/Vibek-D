@@ -38,8 +38,8 @@
 
 </div>
 
-<a href="https://github.com/Vibek-D/Serverless-Todo-Typescript">
-  <img align="center" width="230" min-height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Vibek-D&repo=Serverless-Todo-Typescript&theme=light" />
+<a href="https://github.com/Vibek-D/OpenAI-Cartpole">
+  <img align="center" width="230" min-height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Vibek-D&repo=OpenAI-Cartpole&theme=light" />
 
 </a>
 <a href="https://github.com/Vibek-D/Stock-Market-India">
