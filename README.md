@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vibek-D&label=Views&color=blue&style=plastic" alt="Vibek-D" /> </p>
 
 <a href="https://www.linkedin.com/in/vivek-dutta-bb213b15a/">
-  <img align="left" alt="Vibek's Linkedin" width="22px" padding-right="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Vibek's Linkedin" width="22px" padding="200" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/Vibek-D">
   <img align="left" alt="Vibek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -14,7 +14,6 @@
 
 <br/>
 <br/>
-
 
 - 💬 Ask me about Nodejs, Angular, Kafka, Serverless AWS, Redis, SQL or any tech-related stuff.
 - 📫 How to reach me: [Instagram - @vickygodparticle](https://www.instagram.com/vickygodparticle/) , [Linkedin - @vivek-dutta](https://www.linkedin.com/in/vivek-dutta-bb213b15a/)
