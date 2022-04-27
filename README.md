@@ -48,8 +48,8 @@
 
 
 </a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" width="230" min-height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+<a href="https://github.com/Vibek-D/ML-DeepLearning-NLP-RL">
+ <img align="center" width="230" min-height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Vibek-D&repo=ML-DeepLearning-NLP-RL&theme=light" />
 </a>
 
 <div align="center">
