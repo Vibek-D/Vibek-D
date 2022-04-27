@@ -54,6 +54,6 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories and reach out to me, would love to collaborate. Thanks for viewing.
+### Show some ❤️ by starring the repositories and reach out to me, would love to collaborate. Thanks.
 
 </div>
