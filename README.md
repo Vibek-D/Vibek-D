@@ -39,17 +39,17 @@
 </div>
 
 <a href="https://github.com/Vibek-D/Serverless-Todo-Typescript">
-  <img align="center" width="230" src="https://github-readme-stats.vercel.app/api/pin/?username=Vibek-D&repo=Serverless-Todo-Typescript&theme=light" />
+  <img align="center" width="230" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Vibek-D&repo=Serverless-Todo-Typescript&theme=light" />
 
 </a>
 <a href="https://github.com/Vibek-D/Stock-Market-India">
- <img align="center" width="230" src="https://github-readme-stats.vercel.app/api/pin/?username=Vibek-D&repo=Stock-Market-India&theme=light" />
+ <img align="center" width="230" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Vibek-D&repo=Stock-Market-India&theme=light" />
 </a>
 
 
 </a>
 <a href="https://github.com/iampawan/VelocityX">
- <img align="center" width="230" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
+ <img align="center" width="230" height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=iampawan&repo=VelocityX&theme=light" />
 </a>
 
 <div align="center">
