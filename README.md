@@ -1,7 +1,6 @@
 ## Hola, I'm Vibek Dutta! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vibek-D&label=Views&color=blue&style=plastic" alt="Vibek-D" /> </p>
-
 <br/>
 
 - 💬 Ask me about **Nodejs, Angular, Kafka, Serverless AWS, Redis, SQL or any tech-related stuff**.
@@ -11,7 +10,7 @@
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/VikiisbckDutta?style=social)](https://twitter.com/VikiisbckDutta)
 [![Linkedin: imthepk](https://img.shields.io/badge/-vivekdutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivek-dutta-bb213b15a/)](https://www.linkedin.com/in/vivek-dutta-bb213b15a/)
-[![Gmail: imthepk](https://img.shields.io/badge/-vivekdutta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.gmail.com)](https://www.gmail.com)
+[![Gmail: imthepk](https://img.shields.io/badge/-vivekdutta-blue?style=flat-square&logo=Gmail&logoColor=white&link=https://www.gmail.com)](https://www.gmail.com)
 [![GitHub iampawan](https://img.shields.io/github/followers/Vibek-D?label=follow&style=social)](https://github.com/Vibek-D)
 
 **Languages and Tools:**  
@@ -35,12 +34,12 @@
  <img align="center" width="230" min-height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Vibek-D&repo=Stock-Market-India&theme=light" />
 </a>
 
-
-</a>
 <a href="https://github.com/Vibek-D/ML-DeepLearning-NLP-RL">
  <img align="center" width="230" min-height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Vibek-D&repo=ML-DeepLearning-NLP-RL&theme=light" />
 </a>
 
+<br/>
+<br/>
 <br/>
 
 <div align="left">
