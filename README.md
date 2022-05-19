@@ -6,8 +6,8 @@
 <br/>
 
 - 💬 Ask me about **Nodejs, Angular, Kafka, Serverless AWS, Redis, SQL or any tech-related stuff**.
-- 🌱 I’m currently learning **Kafka, A** - 👨‍💻 All of my projects are available at [github](https://github.com/vivek9patel?tab=repositories)
-- 📫 How to reach me: [Instagram - @vickygodparticle](https://www.instagram.com/vickygodparticle/) , [Linkedin - @vivek-dutta](https://www.linkedin.com/in/vivek-dutta-bb213b15a/)
+- 🌱 I’m currently learning **Kafka, Elasticsearch, PySpark, Data Science** - 👨‍💻 All of my projects are available at [github](https://github.com/Vibek-D?tab=repositories).
+- 📫 How to reach me: [Instagram - @vickygodparticle](https://www.instagram.com/vickygodparticle/) , [Linkedin - @vivek-dutta](https://www.linkedin.com/in/vivek-dutta-bb213b15a/).
 - ⚡ Not a believer, but a seeker.
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/VikiisbckDutta?style=social)](https://twitter.com/VikiisbckDutta)
@@ -44,5 +44,5 @@
 </a>
 
 <div align="left">
-  Show some ❤️ by starring the repositories and reach out to me, would love to collaborate. Thanks.
+  Show some ❤️ by starring the repositories and reach out to me, would love to collaborate.
 </div>
