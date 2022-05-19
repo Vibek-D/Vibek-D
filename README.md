@@ -1,10 +1,7 @@
 ## Hola, I'm Vibek Dutta! 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vibek-D&label=Views&color=blue&style=plastic" alt="Vibek-D" /> </p>
-
 <br/>
-<br/>
-
 - 💬 Ask me about **Nodejs, Angular, Kafka, Serverless AWS, Redis, SQL or any tech-related stuff**.
 - 🌱 I’m currently learning **Kafka, Elasticsearch, PySpark, Data Science** - 👨‍💻 All of my projects are available at [github](https://github.com/Vibek-D?tab=repositories).
 - 📫 How to reach me: [Instagram - @vickygodparticle](https://www.instagram.com/vickygodparticle/) , [Linkedin - @vivek-dutta](https://www.linkedin.com/in/vivek-dutta-bb213b15a/).
@@ -42,7 +39,7 @@
 <a href="https://github.com/Vibek-D/ML-DeepLearning-NLP-RL">
  <img align="center" width="230" min-height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Vibek-D&repo=ML-DeepLearning-NLP-RL&theme=light" />
 </a>
-
+<br/>
 <div align="left">
   Show some ❤️ by starring the repositories and reach out to me, would love to collaborate.
 </div>
