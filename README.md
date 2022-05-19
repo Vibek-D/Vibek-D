@@ -2,21 +2,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Vibek-D&label=Views&color=blue&style=plastic" alt="Vibek-D" /> </p>
 
-<a href="https://www.linkedin.com/in/vivek-dutta-bb213b15a/">
-  <img background-color="red" fill="blue" align="left" alt="Vibek's Linkedin" width="22px" padding="200" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Vibek-D">
-  <img background-color="red" fill="blue" align="left" alt="Vibek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/vickygodparticle/">
-  <img background-color="red" fill="blue" align="left" alt="Vibek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
 <br/>
 <br/>
 
-- 💬 Ask me about Nodejs, Angular, Kafka, Serverless AWS, Redis, SQL or any tech-related stuff.
-- 🌱 I’m currently learning **Redux, Express, Typescript, etc.** - 👨‍💻 All of my projects are available at [github](https://github.com/vivek9patel?tab=repositories)
+- 💬 Ask me about **Nodejs, Angular, Kafka, Serverless AWS, Redis, SQL or any tech-related stuff**.
+- 🌱 I’m currently learning **Kafka, A** - 👨‍💻 All of my projects are available at [github](https://github.com/vivek9patel?tab=repositories)
 - 📫 How to reach me: [Instagram - @vickygodparticle](https://www.instagram.com/vickygodparticle/) , [Linkedin - @vivek-dutta](https://www.linkedin.com/in/vivek-dutta-bb213b15a/)
 - ⚡ Not a believer, but a seeker.
 
@@ -53,8 +43,6 @@
  <img align="center" width="230" min-height="100" src="https://github-readme-stats.vercel.app/api/pin/?username=Vibek-D&repo=ML-DeepLearning-NLP-RL&theme=light" />
 </a>
 
-<div align="center">
-
-### Show some ❤️ by starring the repositories and reach out to me, would love to collaborate. Thanks.
-
+<div align="left">
+  Show some ❤️ by starring the repositories and reach out to me, would love to collaborate. Thanks.
 </div>
