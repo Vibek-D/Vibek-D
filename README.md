@@ -40,7 +40,7 @@ Css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=t
 <br />
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=for-the-badge&logo=linux&logoColor=ffffff)
 ![Aws](http://img.shields.io/badge/-Aws-0078D6?style=for-the-badge&logo=aws&logoColor=ffffff)
-![Redis](http://img.shields.io/badge/-Redis-0078D6?style=for-the-badge&logo=redis&logoColor=ffffff)
+![Redis](http://img.shields.io/badge/-Redis-0078D6?style=for-the-badge&logo=redis&logoColor=red)
 <br />
 
 <div align="left">
