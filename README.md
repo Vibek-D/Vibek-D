@@ -6,7 +6,7 @@
 - 💬 Ask me about **Nodejs, Angular, Kafka, Serverless AWS, Redis, SQL or any tech-related stuff**.
 - 🌱 I’m currently learning **Kafka, Elasticsearch, PySpark, Data Engineering**.
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Vibek-D?tab=repositories).
-- 📫 How to reach me: [Instagram - @vickygodparticle](https://www.instagram.com/vickygodparticle/) , [Linkedin - @vivek-dutta](https://www.linkedin.com/in/vibek-dutta-bb213b15a/) , [Gmail - @vikiisbck@gmail.com](https://www.gmail.com)
+- 📫 How to reach me: [Instagram - @vickygodparticle](https://www.instagram.com/vickygodparticle/) , [Linkedin - @vibek-dutta](https://www.linkedin.com/in/vibek-dutta-bb213b15a/) , [Gmail - @vikiisbck@gmail.com](https://www.gmail.com)
 - ⚡ Not a believer, but a seeker.
 
 [![Twitter: imthepk](https://img.shields.io/twitter/follow/VikiisbckDutta?style=social)](https://twitter.com/VikiisbckDutta)
